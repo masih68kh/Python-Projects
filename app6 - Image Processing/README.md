@@ -9,4 +9,4 @@ The moving object is detected by comparing the current frame with the previous f
 ![alt text](Threshold.gif)
 ![alt text](Color_frame.gif)   
 the pixels in which a motion is detected are in white *[left]*   
-the boxes shows the moving object *[right]*
+the boxes show the moving object *[right]*
