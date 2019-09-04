@@ -1,0 +1,23 @@
+%How to create virtual env in jupyter notebook%
+
+
+%create vertual env with conda%
+    >> conda create -n myenv python=3.7
+
+% activate vertual env %
+    >> conda activate myenv
+
+% remove virtual env %
+    >> conda remove -n myenv
+
+% Add Virtual Environment to Jupyter Notebook%
+    >> pip install --user ipykernel
+
+%add virtual env to jupyter%
+    >> python -m ipykernel install --user --name=myenv
+
+% list of available jupyter virtual envs%
+    >> jupyter kernelspec list
+
+%remove virtual env from jupyter kernel%
+    >> jupyter kernelspec uninstall myenv
