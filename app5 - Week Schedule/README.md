@@ -16,4 +16,4 @@ Once all the data has been added, click on `Show Plot` to display the weekly sch
 run `python window.py`
 
 **Note:**
-*You need Tkinter package to run succeesfully*
+*You need Tkinter package to run successfully*
