@@ -11,7 +11,8 @@ and save it in a .csv file.
 using this package, we can capture the data that is wrapped in specific title on a HTML pages
 
 ---
-*for example, for the above website, the following data header has been captured*
+*for example, for the above website, the following data header has been captured*  
+
 |Address|Price|Sq Ft|Number of Bedrooms|Number of Bathrooms|
 |-------|-----|-----|------------------|-------------------|
 |"0 Gateway Rock Springs, WY 82901"|$725,000|790|2|1|
