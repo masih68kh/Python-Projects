@@ -1,0 +1,13 @@
+
+%create and install packages%
+    >> python -m venv env
+    >> source env/bin/activate
+    >> pip install -r requirements.txt  # Install all the libs.
+
+%to activate on windows%
+    >> .\env-windows\Scripts\activate
+%to activate on Linux%
+    >> source ./env-mac/bin/activate
+
+%save the packages to requirements.txt%
+    >> pip freeze > requirements.txt
