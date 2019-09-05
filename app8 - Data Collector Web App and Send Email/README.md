@@ -11,7 +11,7 @@ after inserting the email and height, a message will be shown, indicating succes
  
  ---
 
- by clicking in `Send Data` button, the user should insert the email credentionals and an email to send the data to in `Terminal`  
+ by clicking on `Send Data` button, the user should insert the email credentionals and an email to send the data to in `Terminal`  
 
 ## How to run the app:   
  `python front_end.py`
